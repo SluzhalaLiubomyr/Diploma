@@ -1,0 +1,76 @@
+C:\Users\tryha\OneDrive\Рабочий стол\diploma\webcrawler\bin\Debug\net8.0\webcrawler.exe
+C:\Users\tryha\OneDrive\Рабочий стол\diploma\webcrawler\bin\Debug\net8.0\webcrawler.deps.json
+C:\Users\tryha\OneDrive\Рабочий стол\diploma\webcrawler\bin\Debug\net8.0\webcrawler.runtimeconfig.json
+C:\Users\tryha\OneDrive\Рабочий стол\diploma\webcrawler\bin\Debug\net8.0\webcrawler.dll
+C:\Users\tryha\OneDrive\Рабочий стол\diploma\webcrawler\bin\Debug\net8.0\webcrawler.pdb
+C:\Users\tryha\OneDrive\Рабочий стол\diploma\webcrawler\obj\Debug\net8.0\webcrawler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tryha\OneDrive\Рабочий стол\diploma\webcrawler\obj\Debug\net8.0\webcrawler.AssemblyInfoInputs.cache
+C:\Users\tryha\OneDrive\Рабочий стол\diploma\webcrawler\obj\Debug\net8.0\webcrawler.AssemblyInfo.cs
+C:\Users\tryha\OneDrive\Рабочий стол\diploma\webcrawler\obj\Debug\net8.0\webcrawler.csproj.CoreCompileInputs.cache
+C:\Users\tryha\OneDrive\Рабочий стол\diploma\webcrawler\obj\Debug\net8.0\webcrawler.dll
+C:\Users\tryha\OneDrive\Рабочий стол\diploma\webcrawler\obj\Debug\net8.0\refint\webcrawler.dll
+C:\Users\tryha\OneDrive\Рабочий стол\diploma\webcrawler\obj\Debug\net8.0\webcrawler.pdb
+C:\Users\tryha\OneDrive\Рабочий стол\diploma\webcrawler\obj\Debug\net8.0\webcrawler.genruntimeconfig.cache
+C:\Users\tryha\OneDrive\Рабочий стол\diploma\webcrawler\obj\Debug\net8.0\ref\webcrawler.dll
+C:\Users\tryha\OneDrive\Рабочий стол\diploma\webcrawler\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\tryha\OneDrive\Рабочий стол\diploma\webcrawler\bin\Debug\net8.0\HtmlAgilityPack.dll
+C:\Users\tryha\OneDrive\Рабочий стол\diploma\webcrawler\bin\Debug\net8.0\HtmlAgilityPack.CssSelectors.dll
+C:\Users\tryha\OneDrive\Рабочий стол\diploma\webcrawler\obj\Debug\net8.0\webcrawler.csproj.AssemblyReference.cache
+C:\Users\tryha\OneDrive\Рабочий стол\diploma\webcrawler\obj\Debug\net8.0\webcrawler.csproj.Up2Date
+C:\Users\tryha\OneDrive\Рабочий стол\diploma\webcrawler2\bin\Debug\net8.0\webcrawler.exe
+C:\Users\tryha\OneDrive\Рабочий стол\diploma\webcrawler2\bin\Debug\net8.0\webcrawler.deps.json
+C:\Users\tryha\OneDrive\Рабочий стол\diploma\webcrawler2\bin\Debug\net8.0\webcrawler.runtimeconfig.json
+C:\Users\tryha\OneDrive\Рабочий стол\diploma\webcrawler2\bin\Debug\net8.0\webcrawler.dll
+C:\Users\tryha\OneDrive\Рабочий стол\diploma\webcrawler2\bin\Debug\net8.0\webcrawler.pdb
+C:\Users\tryha\OneDrive\Рабочий стол\diploma\webcrawler2\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\tryha\OneDrive\Рабочий стол\diploma\webcrawler2\bin\Debug\net8.0\HtmlAgilityPack.dll
+C:\Users\tryha\OneDrive\Рабочий стол\diploma\webcrawler2\bin\Debug\net8.0\HtmlAgilityPack.CssSelectors.dll
+C:\Users\tryha\OneDrive\Рабочий стол\diploma\webcrawler2\obj\Debug\net8.0\webcrawler.csproj.AssemblyReference.cache
+C:\Users\tryha\OneDrive\Рабочий стол\diploma\webcrawler2\obj\Debug\net8.0\webcrawler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tryha\OneDrive\Рабочий стол\diploma\webcrawler2\obj\Debug\net8.0\webcrawler.AssemblyInfoInputs.cache
+C:\Users\tryha\OneDrive\Рабочий стол\diploma\webcrawler2\obj\Debug\net8.0\webcrawler.AssemblyInfo.cs
+C:\Users\tryha\OneDrive\Рабочий стол\diploma\webcrawler2\obj\Debug\net8.0\webcrawler.csproj.CoreCompileInputs.cache
+C:\Users\tryha\OneDrive\Рабочий стол\diploma\webcrawler2\obj\Debug\net8.0\webcrawler.csproj.Up2Date
+C:\Users\tryha\OneDrive\Рабочий стол\diploma\webcrawler2\obj\Debug\net8.0\webcrawler.dll
+C:\Users\tryha\OneDrive\Рабочий стол\diploma\webcrawler2\obj\Debug\net8.0\refint\webcrawler.dll
+C:\Users\tryha\OneDrive\Рабочий стол\diploma\webcrawler2\obj\Debug\net8.0\webcrawler.pdb
+C:\Users\tryha\OneDrive\Рабочий стол\diploma\webcrawler2\obj\Debug\net8.0\webcrawler.genruntimeconfig.cache
+C:\Users\tryha\OneDrive\Рабочий стол\diploma\webcrawler2\obj\Debug\net8.0\ref\webcrawler.dll
+D:\diploma\webcrawler2\bin\Debug\net8.0\webcrawler.exe
+D:\diploma\webcrawler2\bin\Debug\net8.0\webcrawler.deps.json
+D:\diploma\webcrawler2\bin\Debug\net8.0\webcrawler.runtimeconfig.json
+D:\diploma\webcrawler2\bin\Debug\net8.0\webcrawler.dll
+D:\diploma\webcrawler2\bin\Debug\net8.0\webcrawler.pdb
+D:\diploma\webcrawler2\bin\Debug\net8.0\CsvHelper.dll
+D:\diploma\webcrawler2\bin\Debug\net8.0\HtmlAgilityPack.dll
+D:\diploma\webcrawler2\bin\Debug\net8.0\HtmlAgilityPack.CssSelectors.dll
+D:\diploma\webcrawler2\obj\Debug\net8.0\webcrawler.csproj.AssemblyReference.cache
+D:\diploma\webcrawler2\obj\Debug\net8.0\webcrawler.GeneratedMSBuildEditorConfig.editorconfig
+D:\diploma\webcrawler2\obj\Debug\net8.0\webcrawler.AssemblyInfoInputs.cache
+D:\diploma\webcrawler2\obj\Debug\net8.0\webcrawler.AssemblyInfo.cs
+D:\diploma\webcrawler2\obj\Debug\net8.0\webcrawler.csproj.CoreCompileInputs.cache
+D:\diploma\webcrawler2\obj\Debug\net8.0\webcrawler.csproj.Up2Date
+D:\diploma\webcrawler2\obj\Debug\net8.0\webcrawler.dll
+D:\diploma\webcrawler2\obj\Debug\net8.0\refint\webcrawler.dll
+D:\diploma\webcrawler2\obj\Debug\net8.0\webcrawler.pdb
+D:\diploma\webcrawler2\obj\Debug\net8.0\webcrawler.genruntimeconfig.cache
+D:\diploma\webcrawler2\obj\Debug\net8.0\ref\webcrawler.dll
+D:\diploma\webcrawler(for rating)\bin\Debug\net8.0\webcrawler.exe
+D:\diploma\webcrawler(for rating)\bin\Debug\net8.0\webcrawler.deps.json
+D:\diploma\webcrawler(for rating)\bin\Debug\net8.0\webcrawler.runtimeconfig.json
+D:\diploma\webcrawler(for rating)\bin\Debug\net8.0\webcrawler.dll
+D:\diploma\webcrawler(for rating)\bin\Debug\net8.0\webcrawler.pdb
+D:\diploma\webcrawler(for rating)\bin\Debug\net8.0\CsvHelper.dll
+D:\diploma\webcrawler(for rating)\bin\Debug\net8.0\HtmlAgilityPack.dll
+D:\diploma\webcrawler(for rating)\bin\Debug\net8.0\HtmlAgilityPack.CssSelectors.dll
+D:\diploma\webcrawler(for rating)\obj\Debug\net8.0\webcrawler.csproj.AssemblyReference.cache
+D:\diploma\webcrawler(for rating)\obj\Debug\net8.0\webcrawler.GeneratedMSBuildEditorConfig.editorconfig
+D:\diploma\webcrawler(for rating)\obj\Debug\net8.0\webcrawler.AssemblyInfoInputs.cache
+D:\diploma\webcrawler(for rating)\obj\Debug\net8.0\webcrawler.AssemblyInfo.cs
+D:\diploma\webcrawler(for rating)\obj\Debug\net8.0\webcrawler.csproj.CoreCompileInputs.cache
+D:\diploma\webcrawler(for rating)\obj\Debug\net8.0\webcrawler.csproj.Up2Date
+D:\diploma\webcrawler(for rating)\obj\Debug\net8.0\webcrawler.dll
+D:\diploma\webcrawler(for rating)\obj\Debug\net8.0\refint\webcrawler.dll
+D:\diploma\webcrawler(for rating)\obj\Debug\net8.0\webcrawler.pdb
+D:\diploma\webcrawler(for rating)\obj\Debug\net8.0\webcrawler.genruntimeconfig.cache
+D:\diploma\webcrawler(for rating)\obj\Debug\net8.0\ref\webcrawler.dll

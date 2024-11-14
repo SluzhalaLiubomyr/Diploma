@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "T/wOnSowSkl9ahS/u3Vq9wI0Gw0jDVhdXUjTOq6G613pOixwjO4++PdSCrWRyBlzlaSbihyrpJ6V63kQBJ5b0w==",
+  "success": true,
+  "projectFilePath": "D:\\diploma\\webcrawler(for rating)\\webcrawler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tryha\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512",
+    "C:\\Users\\tryha\\.nuget\\packages\\htmlagilitypack\\1.11.64\\htmlagilitypack.1.11.64.nupkg.sha512",
+    "C:\\Users\\tryha\\.nuget\\packages\\htmlagilitypack.cssselectors\\1.0.2\\htmlagilitypack.cssselectors.1.0.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'HtmlAgilityPack.CssSelectors 1.0.2' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
+      "libraryId": "HtmlAgilityPack.CssSelectors",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
