@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "zwvfcMmSyNpWvliPtXYymqty4IA4cYlfcLD1wch4noU=",
+  "Source": "RealEstateSentimentAPI",
+  "BasePath": "_content/RealEstateSentimentAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

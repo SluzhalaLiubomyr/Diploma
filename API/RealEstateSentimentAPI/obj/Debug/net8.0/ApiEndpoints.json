@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "RealEstateSentimentAPI.Controllers.SentimentController",
+    "Method": "AnalyzeSentiment",
+    "RelativePath": "api/Sentiment/analyze",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "input",
+        "Type": "RealEstateSentimentAPI.SentimentData",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

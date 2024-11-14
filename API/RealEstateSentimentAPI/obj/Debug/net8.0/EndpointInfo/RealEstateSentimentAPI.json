@@ -1,0 +1,57 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "RealEstateSentimentAPI",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Sentiment/analyze": {
+      "post": {
+        "tags": [
+          "Sentiment"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/SentimentData"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/SentimentData"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/SentimentData"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "SentimentData": {
+        "type": "object",
+        "properties": {
+          "sentimentText": {
+            "type": "string",
+            "nullable": true
+          },
+          "label": {
+            "type": "boolean"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}
