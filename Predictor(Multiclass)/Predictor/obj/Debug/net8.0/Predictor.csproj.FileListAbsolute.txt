@@ -1,0 +1,151 @@
+C:\Users\tryha\source\repos\Predictor\Predictor\bin\Debug\net8.0\Predictor.exe
+C:\Users\tryha\source\repos\Predictor\Predictor\bin\Debug\net8.0\Predictor.deps.json
+C:\Users\tryha\source\repos\Predictor\Predictor\bin\Debug\net8.0\Predictor.runtimeconfig.json
+C:\Users\tryha\source\repos\Predictor\Predictor\bin\Debug\net8.0\Predictor.dll
+C:\Users\tryha\source\repos\Predictor\Predictor\bin\Debug\net8.0\Predictor.pdb
+C:\Users\tryha\source\repos\Predictor\Predictor\bin\Debug\net8.0\Microsoft.ML.Core.dll
+C:\Users\tryha\source\repos\Predictor\Predictor\bin\Debug\net8.0\Microsoft.ML.Data.dll
+C:\Users\tryha\source\repos\Predictor\Predictor\bin\Debug\net8.0\Microsoft.ML.KMeansClustering.dll
+C:\Users\tryha\source\repos\Predictor\Predictor\bin\Debug\net8.0\Microsoft.ML.PCA.dll
+C:\Users\tryha\source\repos\Predictor\Predictor\bin\Debug\net8.0\Microsoft.ML.StandardTrainers.dll
+C:\Users\tryha\source\repos\Predictor\Predictor\bin\Debug\net8.0\Microsoft.ML.Transforms.dll
+C:\Users\tryha\source\repos\Predictor\Predictor\bin\Debug\net8.0\Microsoft.ML.dll
+C:\Users\tryha\source\repos\Predictor\Predictor\bin\Debug\net8.0\Microsoft.ML.CpuMath.dll
+C:\Users\tryha\source\repos\Predictor\Predictor\bin\Debug\net8.0\Microsoft.ML.DataView.dll
+C:\Users\tryha\source\repos\Predictor\Predictor\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\tryha\source\repos\Predictor\Predictor\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\tryha\source\repos\Predictor\Predictor\bin\Debug\net8.0\System.Numerics.Tensors.dll
+C:\Users\tryha\source\repos\Predictor\Predictor\bin\Debug\net8.0\runtimes\linux-arm\native\libLdaNative.so
+C:\Users\tryha\source\repos\Predictor\Predictor\bin\Debug\net8.0\runtimes\linux-arm64\native\libLdaNative.so
+C:\Users\tryha\source\repos\Predictor\Predictor\bin\Debug\net8.0\runtimes\linux-x64\native\libLdaNative.so
+C:\Users\tryha\source\repos\Predictor\Predictor\bin\Debug\net8.0\runtimes\osx-arm64\native\libLdaNative.dylib
+C:\Users\tryha\source\repos\Predictor\Predictor\bin\Debug\net8.0\runtimes\osx-x64\native\libLdaNative.dylib
+C:\Users\tryha\source\repos\Predictor\Predictor\bin\Debug\net8.0\runtimes\win-arm64\native\LdaNative.dll
+C:\Users\tryha\source\repos\Predictor\Predictor\bin\Debug\net8.0\runtimes\win-x64\native\LdaNative.dll
+C:\Users\tryha\source\repos\Predictor\Predictor\bin\Debug\net8.0\runtimes\win-x86\native\LdaNative.dll
+C:\Users\tryha\source\repos\Predictor\Predictor\obj\Debug\net8.0\Predictor.csproj.AssemblyReference.cache
+C:\Users\tryha\source\repos\Predictor\Predictor\obj\Debug\net8.0\Predictor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tryha\source\repos\Predictor\Predictor\obj\Debug\net8.0\Predictor.AssemblyInfoInputs.cache
+C:\Users\tryha\source\repos\Predictor\Predictor\obj\Debug\net8.0\Predictor.AssemblyInfo.cs
+C:\Users\tryha\source\repos\Predictor\Predictor\obj\Debug\net8.0\Predictor.csproj.CoreCompileInputs.cache
+C:\Users\tryha\source\repos\Predictor\Predictor\obj\Debug\net8.0\Predictor.csproj.Up2Date
+C:\Users\tryha\source\repos\Predictor\Predictor\obj\Debug\net8.0\Predictor.dll
+C:\Users\tryha\source\repos\Predictor\Predictor\obj\Debug\net8.0\refint\Predictor.dll
+C:\Users\tryha\source\repos\Predictor\Predictor\obj\Debug\net8.0\Predictor.pdb
+C:\Users\tryha\source\repos\Predictor\Predictor\obj\Debug\net8.0\Predictor.genruntimeconfig.cache
+C:\Users\tryha\source\repos\Predictor\Predictor\obj\Debug\net8.0\ref\Predictor.dll
+C:\Users\tryha\source\repos\Predictor\Predictor\bin\Debug\net8.0\Data\yelp_labelled.txt
+C:\Users\tryha\OneDrive\Рабочий стол\diploma\Predictor\Predictor\bin\Debug\net8.0\Predictor.exe
+C:\Users\tryha\OneDrive\Рабочий стол\diploma\Predictor\Predictor\bin\Debug\net8.0\Data\yelp_labelled.txt
+C:\Users\tryha\OneDrive\Рабочий стол\diploma\Predictor\Predictor\bin\Debug\net8.0\Predictor.deps.json
+C:\Users\tryha\OneDrive\Рабочий стол\diploma\Predictor\Predictor\bin\Debug\net8.0\Predictor.runtimeconfig.json
+C:\Users\tryha\OneDrive\Рабочий стол\diploma\Predictor\Predictor\bin\Debug\net8.0\Predictor.dll
+C:\Users\tryha\OneDrive\Рабочий стол\diploma\Predictor\Predictor\bin\Debug\net8.0\Predictor.pdb
+C:\Users\tryha\OneDrive\Рабочий стол\diploma\Predictor\Predictor\bin\Debug\net8.0\Microsoft.ML.Core.dll
+C:\Users\tryha\OneDrive\Рабочий стол\diploma\Predictor\Predictor\bin\Debug\net8.0\Microsoft.ML.Data.dll
+C:\Users\tryha\OneDrive\Рабочий стол\diploma\Predictor\Predictor\bin\Debug\net8.0\Microsoft.ML.KMeansClustering.dll
+C:\Users\tryha\OneDrive\Рабочий стол\diploma\Predictor\Predictor\bin\Debug\net8.0\Microsoft.ML.PCA.dll
+C:\Users\tryha\OneDrive\Рабочий стол\diploma\Predictor\Predictor\bin\Debug\net8.0\Microsoft.ML.StandardTrainers.dll
+C:\Users\tryha\OneDrive\Рабочий стол\diploma\Predictor\Predictor\bin\Debug\net8.0\Microsoft.ML.Transforms.dll
+C:\Users\tryha\OneDrive\Рабочий стол\diploma\Predictor\Predictor\bin\Debug\net8.0\Microsoft.ML.dll
+C:\Users\tryha\OneDrive\Рабочий стол\diploma\Predictor\Predictor\bin\Debug\net8.0\Microsoft.ML.CpuMath.dll
+C:\Users\tryha\OneDrive\Рабочий стол\diploma\Predictor\Predictor\bin\Debug\net8.0\Microsoft.ML.DataView.dll
+C:\Users\tryha\OneDrive\Рабочий стол\diploma\Predictor\Predictor\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\tryha\OneDrive\Рабочий стол\diploma\Predictor\Predictor\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\tryha\OneDrive\Рабочий стол\diploma\Predictor\Predictor\bin\Debug\net8.0\System.Numerics.Tensors.dll
+C:\Users\tryha\OneDrive\Рабочий стол\diploma\Predictor\Predictor\bin\Debug\net8.0\runtimes\linux-arm\native\libLdaNative.so
+C:\Users\tryha\OneDrive\Рабочий стол\diploma\Predictor\Predictor\bin\Debug\net8.0\runtimes\linux-arm64\native\libLdaNative.so
+C:\Users\tryha\OneDrive\Рабочий стол\diploma\Predictor\Predictor\bin\Debug\net8.0\runtimes\linux-x64\native\libLdaNative.so
+C:\Users\tryha\OneDrive\Рабочий стол\diploma\Predictor\Predictor\bin\Debug\net8.0\runtimes\osx-arm64\native\libLdaNative.dylib
+C:\Users\tryha\OneDrive\Рабочий стол\diploma\Predictor\Predictor\bin\Debug\net8.0\runtimes\osx-x64\native\libLdaNative.dylib
+C:\Users\tryha\OneDrive\Рабочий стол\diploma\Predictor\Predictor\bin\Debug\net8.0\runtimes\win-arm64\native\LdaNative.dll
+C:\Users\tryha\OneDrive\Рабочий стол\diploma\Predictor\Predictor\bin\Debug\net8.0\runtimes\win-x64\native\LdaNative.dll
+C:\Users\tryha\OneDrive\Рабочий стол\diploma\Predictor\Predictor\bin\Debug\net8.0\runtimes\win-x86\native\LdaNative.dll
+C:\Users\tryha\OneDrive\Рабочий стол\diploma\Predictor\Predictor\obj\Debug\net8.0\Predictor.csproj.AssemblyReference.cache
+C:\Users\tryha\OneDrive\Рабочий стол\diploma\Predictor\Predictor\obj\Debug\net8.0\Predictor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tryha\OneDrive\Рабочий стол\diploma\Predictor\Predictor\obj\Debug\net8.0\Predictor.AssemblyInfoInputs.cache
+C:\Users\tryha\OneDrive\Рабочий стол\diploma\Predictor\Predictor\obj\Debug\net8.0\Predictor.AssemblyInfo.cs
+C:\Users\tryha\OneDrive\Рабочий стол\diploma\Predictor\Predictor\obj\Debug\net8.0\Predictor.csproj.CoreCompileInputs.cache
+C:\Users\tryha\OneDrive\Рабочий стол\diploma\Predictor\Predictor\obj\Debug\net8.0\Predictor.csproj.Up2Date
+C:\Users\tryha\OneDrive\Рабочий стол\diploma\Predictor\Predictor\obj\Debug\net8.0\Predictor.dll
+C:\Users\tryha\OneDrive\Рабочий стол\diploma\Predictor\Predictor\obj\Debug\net8.0\refint\Predictor.dll
+C:\Users\tryha\OneDrive\Рабочий стол\diploma\Predictor\Predictor\obj\Debug\net8.0\Predictor.pdb
+C:\Users\tryha\OneDrive\Рабочий стол\diploma\Predictor\Predictor\obj\Debug\net8.0\Predictor.genruntimeconfig.cache
+C:\Users\tryha\OneDrive\Рабочий стол\diploma\Predictor\Predictor\obj\Debug\net8.0\ref\Predictor.dll
+C:\Users\tryha\OneDrive\Рабочий стол\diploma\Predictor\Predictor\bin\Debug\net8.0\CsvHelper.dll
+D:\diploma\Predictor\Predictor\bin\Debug\net8.0\Predictor.exe
+D:\diploma\Predictor\Predictor\bin\Debug\net8.0\Data\yelp_labelled.txt
+D:\diploma\Predictor\Predictor\bin\Debug\net8.0\Predictor.deps.json
+D:\diploma\Predictor\Predictor\bin\Debug\net8.0\Predictor.runtimeconfig.json
+D:\diploma\Predictor\Predictor\bin\Debug\net8.0\Predictor.dll
+D:\diploma\Predictor\Predictor\bin\Debug\net8.0\Predictor.pdb
+D:\diploma\Predictor\Predictor\bin\Debug\net8.0\CsvHelper.dll
+D:\diploma\Predictor\Predictor\bin\Debug\net8.0\Microsoft.ML.Core.dll
+D:\diploma\Predictor\Predictor\bin\Debug\net8.0\Microsoft.ML.Data.dll
+D:\diploma\Predictor\Predictor\bin\Debug\net8.0\Microsoft.ML.KMeansClustering.dll
+D:\diploma\Predictor\Predictor\bin\Debug\net8.0\Microsoft.ML.PCA.dll
+D:\diploma\Predictor\Predictor\bin\Debug\net8.0\Microsoft.ML.StandardTrainers.dll
+D:\diploma\Predictor\Predictor\bin\Debug\net8.0\Microsoft.ML.Transforms.dll
+D:\diploma\Predictor\Predictor\bin\Debug\net8.0\Microsoft.ML.dll
+D:\diploma\Predictor\Predictor\bin\Debug\net8.0\Microsoft.ML.CpuMath.dll
+D:\diploma\Predictor\Predictor\bin\Debug\net8.0\Microsoft.ML.DataView.dll
+D:\diploma\Predictor\Predictor\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\diploma\Predictor\Predictor\bin\Debug\net8.0\System.CodeDom.dll
+D:\diploma\Predictor\Predictor\bin\Debug\net8.0\System.Numerics.Tensors.dll
+D:\diploma\Predictor\Predictor\bin\Debug\net8.0\runtimes\linux-arm\native\libLdaNative.so
+D:\diploma\Predictor\Predictor\bin\Debug\net8.0\runtimes\linux-arm64\native\libLdaNative.so
+D:\diploma\Predictor\Predictor\bin\Debug\net8.0\runtimes\linux-x64\native\libLdaNative.so
+D:\diploma\Predictor\Predictor\bin\Debug\net8.0\runtimes\osx-arm64\native\libLdaNative.dylib
+D:\diploma\Predictor\Predictor\bin\Debug\net8.0\runtimes\osx-x64\native\libLdaNative.dylib
+D:\diploma\Predictor\Predictor\bin\Debug\net8.0\runtimes\win-arm64\native\LdaNative.dll
+D:\diploma\Predictor\Predictor\bin\Debug\net8.0\runtimes\win-x64\native\LdaNative.dll
+D:\diploma\Predictor\Predictor\bin\Debug\net8.0\runtimes\win-x86\native\LdaNative.dll
+D:\diploma\Predictor\Predictor\obj\Debug\net8.0\Predictor.csproj.AssemblyReference.cache
+D:\diploma\Predictor\Predictor\obj\Debug\net8.0\Predictor.GeneratedMSBuildEditorConfig.editorconfig
+D:\diploma\Predictor\Predictor\obj\Debug\net8.0\Predictor.AssemblyInfoInputs.cache
+D:\diploma\Predictor\Predictor\obj\Debug\net8.0\Predictor.AssemblyInfo.cs
+D:\diploma\Predictor\Predictor\obj\Debug\net8.0\Predictor.csproj.CoreCompileInputs.cache
+D:\diploma\Predictor\Predictor\obj\Debug\net8.0\Predictor.csproj.Up2Date
+D:\diploma\Predictor\Predictor\obj\Debug\net8.0\Predictor.dll
+D:\diploma\Predictor\Predictor\obj\Debug\net8.0\refint\Predictor.dll
+D:\diploma\Predictor\Predictor\obj\Debug\net8.0\Predictor.pdb
+D:\diploma\Predictor\Predictor\obj\Debug\net8.0\Predictor.genruntimeconfig.cache
+D:\diploma\Predictor\Predictor\obj\Debug\net8.0\ref\Predictor.dll
+D:\diploma\Predictor(Multiclass)\Predictor\bin\Debug\net8.0\Predictor.exe
+D:\diploma\Predictor(Multiclass)\Predictor\bin\Debug\net8.0\Data\yelp_labelled.txt
+D:\diploma\Predictor(Multiclass)\Predictor\bin\Debug\net8.0\Predictor.deps.json
+D:\diploma\Predictor(Multiclass)\Predictor\bin\Debug\net8.0\Predictor.runtimeconfig.json
+D:\diploma\Predictor(Multiclass)\Predictor\bin\Debug\net8.0\Predictor.dll
+D:\diploma\Predictor(Multiclass)\Predictor\bin\Debug\net8.0\Predictor.pdb
+D:\diploma\Predictor(Multiclass)\Predictor\bin\Debug\net8.0\CsvHelper.dll
+D:\diploma\Predictor(Multiclass)\Predictor\bin\Debug\net8.0\Microsoft.ML.Core.dll
+D:\diploma\Predictor(Multiclass)\Predictor\bin\Debug\net8.0\Microsoft.ML.Data.dll
+D:\diploma\Predictor(Multiclass)\Predictor\bin\Debug\net8.0\Microsoft.ML.KMeansClustering.dll
+D:\diploma\Predictor(Multiclass)\Predictor\bin\Debug\net8.0\Microsoft.ML.PCA.dll
+D:\diploma\Predictor(Multiclass)\Predictor\bin\Debug\net8.0\Microsoft.ML.StandardTrainers.dll
+D:\diploma\Predictor(Multiclass)\Predictor\bin\Debug\net8.0\Microsoft.ML.Transforms.dll
+D:\diploma\Predictor(Multiclass)\Predictor\bin\Debug\net8.0\Microsoft.ML.dll
+D:\diploma\Predictor(Multiclass)\Predictor\bin\Debug\net8.0\Microsoft.ML.CpuMath.dll
+D:\diploma\Predictor(Multiclass)\Predictor\bin\Debug\net8.0\Microsoft.ML.DataView.dll
+D:\diploma\Predictor(Multiclass)\Predictor\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\diploma\Predictor(Multiclass)\Predictor\bin\Debug\net8.0\System.CodeDom.dll
+D:\diploma\Predictor(Multiclass)\Predictor\bin\Debug\net8.0\System.Numerics.Tensors.dll
+D:\diploma\Predictor(Multiclass)\Predictor\bin\Debug\net8.0\runtimes\linux-arm\native\libLdaNative.so
+D:\diploma\Predictor(Multiclass)\Predictor\bin\Debug\net8.0\runtimes\linux-arm64\native\libLdaNative.so
+D:\diploma\Predictor(Multiclass)\Predictor\bin\Debug\net8.0\runtimes\linux-x64\native\libLdaNative.so
+D:\diploma\Predictor(Multiclass)\Predictor\bin\Debug\net8.0\runtimes\osx-arm64\native\libLdaNative.dylib
+D:\diploma\Predictor(Multiclass)\Predictor\bin\Debug\net8.0\runtimes\osx-x64\native\libLdaNative.dylib
+D:\diploma\Predictor(Multiclass)\Predictor\bin\Debug\net8.0\runtimes\win-arm64\native\LdaNative.dll
+D:\diploma\Predictor(Multiclass)\Predictor\bin\Debug\net8.0\runtimes\win-x64\native\LdaNative.dll
+D:\diploma\Predictor(Multiclass)\Predictor\bin\Debug\net8.0\runtimes\win-x86\native\LdaNative.dll
+D:\diploma\Predictor(Multiclass)\Predictor\obj\Debug\net8.0\Predictor.csproj.AssemblyReference.cache
+D:\diploma\Predictor(Multiclass)\Predictor\obj\Debug\net8.0\Predictor.GeneratedMSBuildEditorConfig.editorconfig
+D:\diploma\Predictor(Multiclass)\Predictor\obj\Debug\net8.0\Predictor.AssemblyInfoInputs.cache
+D:\diploma\Predictor(Multiclass)\Predictor\obj\Debug\net8.0\Predictor.AssemblyInfo.cs
+D:\diploma\Predictor(Multiclass)\Predictor\obj\Debug\net8.0\Predictor.csproj.CoreCompileInputs.cache
+D:\diploma\Predictor(Multiclass)\Predictor\obj\Debug\net8.0\Predictor.csproj.Up2Date
+D:\diploma\Predictor(Multiclass)\Predictor\obj\Debug\net8.0\Predictor.dll
+D:\diploma\Predictor(Multiclass)\Predictor\obj\Debug\net8.0\refint\Predictor.dll
+D:\diploma\Predictor(Multiclass)\Predictor\obj\Debug\net8.0\Predictor.pdb
+D:\diploma\Predictor(Multiclass)\Predictor\obj\Debug\net8.0\Predictor.genruntimeconfig.cache
+D:\diploma\Predictor(Multiclass)\Predictor\obj\Debug\net8.0\ref\Predictor.dll
